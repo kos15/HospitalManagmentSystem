@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Diagnostic Dashoard</title>
 </head>
 <body>
-<h1>Body</h1>
+<h1>Diagnostic Login successfully....</h1>
 </body>
 </html>
