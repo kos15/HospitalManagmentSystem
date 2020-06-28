@@ -1,2 +1,2 @@
 # HospitalManagmentSystem
-Hospital Managment System using Springboot
+Hospital Managment System using Springboot MVC
