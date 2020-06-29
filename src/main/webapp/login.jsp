@@ -8,20 +8,20 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--===============================================================================================-->
-	<style><%@include file="/images/icons/favicon.ico"%></style>
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico" />
 	<!--===============================================================================================-->
-	<style><%@include file="/vendor/bootstrap/css/bootstrap.min.css"%></style>
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 	<!--===============================================================================================-->
-	<style><%@include file="/fonts/font-awesome-4.7.0/css/font-awesome.min.css"%></style>
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 	<!--===============================================================================================-->
-	<style><%@include file="/vendor/animate/animate.css"%></style>
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 	<!--===============================================================================================-->
-	<style><%@include file="/vendor/css-hamburgers/hamburgers.min.css"%></style>
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
 	<!--===============================================================================================-->
-	<style><%@include file="/vendor/select2/select2.min.css"%></style>
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
 	<!--===============================================================================================-->
-	<style><%@include file="/css/main.css"%></style>
-	<style><%@include file="/css/util.css"%></style>
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<!--===============================================================================================-->
 </head>
 
@@ -31,7 +31,7 @@
 		<div class="container-login100">
 			<div class="wrap-login100">
 				<div class="login100-pic js-tilt" data-tilt>
-					<img src="/static/img-01.png">
+					<img src="/images/img-01.png">
 				</div>
 
 				<form class="login100-form validate-form" action="login" method="post">
