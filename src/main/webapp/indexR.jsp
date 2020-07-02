@@ -9,5 +9,7 @@
 </head>
 <body>
 <h1>Reception Login successfully....</h1>
+${p }
+${message }
 </body>
 </html>
